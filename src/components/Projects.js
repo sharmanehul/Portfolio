@@ -16,17 +16,17 @@ export const Projects = () => {
       imgUrl: projImg1,
     },
     {
-      title: "Business Startup",
+      title: "Cybrfits",
       description: "Design & Development",
       imgUrl: projImg2,
     },
     {
-      title: "Business Startup",
+      title: "Sustainify: E-waste Dumping Ground",
       description: "Design & Development",
       imgUrl: projImg3,
     },
     {
-      title: "Business Startup",
+      title: "Say & Tell",
       description: "Design & Development",
       imgUrl: projImg1,
     },
