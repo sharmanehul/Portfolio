@@ -59,7 +59,7 @@ export const Banner = () => {
                 <h1>{`Hello! My name is Nehul Sharma`}</h1>
                 <h3 className="txt-rotate" dataPeriod="1000" data-rotate='[ "Full Stack Web Developer" ]'><span className="wrap">{text}</span></h3>
                   <p>I am an undergraduate pursuing Bachelor's in Computer Science and Engineering, I specialize in full stack web development, particularly in the MERN stack with a passion for crafting innovative digital experiences. I continuously seek opportunities to enhance my expertise and contribute meaningfully</p>
-                  <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
+                  
               </div>}
             </TrackVisibility>
           </Col>
